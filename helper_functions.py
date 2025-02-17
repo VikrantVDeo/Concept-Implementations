@@ -1,3 +1,4 @@
+#new change
 """
 A series of helper functions used throughout the course.
 
